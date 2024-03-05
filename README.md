@@ -1,3 +1,4 @@
 # Telecom-Service-Churn-Analysis-Project
-Analyzed a telecom dataset of 7000+ customers, employing feature engineering and data normalization. 
-Built a Random Forest model achieving 94% accuracy to predict customer churn, deployed via Flask for proactive churn prevention.
+Conducted data analysis on a synthetic telecom service provider data set of over 7000 customers, using techniques such as feature engineering, data normalization, and data imputation.
+Developed a random forest model to predict customer churn with an accuracy of 94%, using machine learning algorithms such as decision trees and random forests. 
+Deployed the model using Flask to help the telecom service provider identify and prevent customer churn.
